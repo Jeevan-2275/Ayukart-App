@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST={__rewrites:{beforeFiles:[],afterFiles:[{source:"/apt-api/:path*",destination:"/api/:path*"}],fallback:[]},"/":["static/chunks/863-b56ae9c74b334fce.js","static/chunks/pages/index-99e7d4373be6dc71.js"],"/_error":["static/chunks/pages/_error-230ed0e6b3b304c1.js"],sortedPages:["/","/_app","/_error"]},self.__BUILD_MANIFEST_CB&&self.__BUILD_MANIFEST_CB();
